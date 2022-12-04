@@ -1,0 +1,8 @@
+Required library and softwares to execute test suite
+a- jdk-1.8
+b- selenium library 3.x version
+c- TestNG 7.3.0
+d- Maven 
+e- Eclipse as a editor tool Version: Oxygen.3a Release (4.7.3a)
+This automation suite have been created using selenium with java language
+In this suite there is test.xml file which will help to run the suite either in local or using jenkins

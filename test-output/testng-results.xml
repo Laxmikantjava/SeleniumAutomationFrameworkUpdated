@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10211" started-at="2022-11-28T10:12:34Z" finished-at="2022-11-28T10:12:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10211" started-at="2022-11-28T10:12:34Z" finished-at="2022-11-28T10:12:44Z">
+      <class name="HomePgaeTest.SearchDevice">
+        <test-method status="PASS" signature="setup()[pri:0, instance:HomePgaeTest.SearchDevice@1bce4f0a]" name="setup" is-config="true" duration-ms="6768" started-at="2022-11-28T10:12:34Z" finished-at="2022-11-28T10:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyEbayTitlePage()[pri:0, instance:HomePgaeTest.SearchDevice@1bce4f0a]" name="VerifyEbayTitlePage" duration-ms="18" started-at="2022-11-28T10:12:41Z" finished-at="2022-11-28T10:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEbayTitlePage -->
+        <test-method status="PASS" signature="searchMackbook()[pri:0, instance:HomePgaeTest.SearchDevice@1bce4f0a]" name="searchMackbook" duration-ms="3328" started-at="2022-11-28T10:12:41Z" finished-at="2022-11-28T10:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMackbook -->
+        <test-method status="PASS" signature="validateSearchresult()[pri:0, instance:HomePgaeTest.SearchDevice@1bce4f0a]" name="validateSearchresult" duration-ms="65" started-at="2022-11-28T10:12:44Z" finished-at="2022-11-28T10:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchresult -->
+      </class> <!-- HomePgaeTest.SearchDevice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
